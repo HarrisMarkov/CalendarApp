@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Projeto</string>
+
+    <string name="save_event">Save Event</string>
+    <string name="event_name">Event Name</string>
+    <string name="clear_all_events">Clear All Events</string>
+    <string name="button">Button</string>
+    <string name="view_lists">View Lists</string>
+    <string name="view_calendar">View Calendar</string>
+    <string name="ver_lista_de_eventos">Ver Lista de Eventos</string>
+    <string name="ver_calend_rio">Ver Calendário</string>
+    <string name="neatcalendar_pdm_2020">NeatCalendar: PDM 2020</string>
+    <string name="marcar_evento">Marcar Evento</string>
+    <string name="nome_do_evento">Nome do evento</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="lista_de_eventos">Lista de Eventos</string>
+    <string name="calend_rio">Calendário</string>
+    <string name="data_de_fim">Data de fim:</string>
+    <string name="data_de_in_cio">Data de início:</string>
+    <string name="lsita_de_eventos">Lsita de Eventos</string>
+    <string name="info_geral">Info geral</string>
+    <string name="apagar_lista">Apagar Lista</string>
+    <string name="informa_es_gerais">Informações Gerais</string>
+</resources>
